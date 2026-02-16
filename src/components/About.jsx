@@ -42,8 +42,9 @@ const About = () => {
                     transition={{ duration: 0.8, delay: 0.6 }}
                     className="flex flex-wrap justify-center gap-16 md:gap-32 text-center"
                 >
+
                     <div>
-                        <h3 className="text-5xl font-bold text-[#9a38f3]">1+</h3>
+                        <h3 className="text-5xl font-bold text-[#9a38f3]">3+</h3>
                         <p className="text-xs tracking-widest text-neutral-500 mt-2 uppercas">Years Exp.</p>
                     </div>
                     <div>
