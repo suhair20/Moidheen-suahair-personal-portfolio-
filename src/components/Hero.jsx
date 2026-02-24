@@ -74,7 +74,7 @@ const Hero = () => {
                         >
                             <a
 
-                                href="https://drive.google.com/file/d/18cYMA1WhbnuauKib7jXcSBNgkeuKhmg4/view?usp=drive_link"
+                                href="https://drive.google.com/file/d/1wJyHgx3ffDKGOBtqUEswWxCOGT-nbgXb/view?usp=drive_link"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-gradient-to-r from-[#00dbfe] to-[#00dbfe] text-neutral-950 px-4 py-2 text-sm md:px-8 md:py-3 md:text-base rounded-full font-bold hover:shadow-[0_0_20px_rgba(0,219,254,0.5)] transition-shadow"
