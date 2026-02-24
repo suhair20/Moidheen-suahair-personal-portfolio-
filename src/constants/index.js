@@ -30,7 +30,7 @@ export const PROJECTS = [
         description:
             "Developed a full-featured e-commerce platform supporting product browsing, cart management, and secure checkout. Implemented OTP/email-based authentication and authorization. Integrated Razorpay payment gateway for secure online transactions. Built an admin dashboard to manage products, orders, offers, and media. Implemented image uploads using Multer and Cloudinary.",
         technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Razorpay", "Cloudinary", "Multer"],
-        link: "https://lobuy.vercel.app",
+        link: "https://lobuy.in",
         github: "https://github.com/suhair20/lobuy",
     },
     {

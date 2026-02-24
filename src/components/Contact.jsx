@@ -91,6 +91,7 @@ const Contact = () => {
                         onSubmit={handleSubmit}
                         className="space-y-6"
                     >
+                        
                         <div className="space-y-2">
                             <label className="text-sm font-medium text-neutral-400 ml-1">Your Name</label>
                             <input
